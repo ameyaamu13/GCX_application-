@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_pincode" label="Pincode" language="en" table="customer_account">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_pincode</element>
+            <help/>
+            <hint/>
+            <label>Pincode</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <plural>Pincodes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-05 11:50:55</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pincode</sys_name>
+            <sys_package display_value="GCX_GlobalApp" source="cfdf02a597a7f11088a4f2a3f153af22">cfdf02a597a7f11088a4f2a3f153af22</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GCX_GlobalApp">cfdf02a597a7f11088a4f2a3f153af22</sys_scope>
+            <sys_update_name>sys_documentation_customer_account_u_pincode_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-05 11:50:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
