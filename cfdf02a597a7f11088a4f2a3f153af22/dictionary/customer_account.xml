@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="b62021409771311088a4f2a3f153af3e" extends="core_company" label="Account" max_length="40" name="customer_account" text_index="true" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Pincode" max_length="40" name="u_pincode" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Pincode" max_length="40" name="u_pincode" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
     </element>
 </database>
